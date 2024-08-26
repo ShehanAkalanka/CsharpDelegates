@@ -1,0 +1,67 @@
+﻿# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+
+# Ignore Visual Studio working files
+.vscode/
+.vs/
+.idea/
+
+# Ignore Rider working files
+.idea/
+
+# Ignore JetBrains Rider working directories
+.idea/
+.idea/*
+
+# Ignore logs
+*.log
+
+# Ignore application insights config
+ApplicationInsights.config
+
+# Ignore publish output
+publish/
+
+# Ignore package directories
+**/node_modules/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+
+# Ignore lock files
+project.lock.json
+project.fragment.lock.json
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.app
+*.out
+*.so
+*.pdb
+*.log
+
+# Ignore generated files
+Generated_Code/
+
+# Ignore specific tooling files
+*.dbmdl
+*.jfm
+.env
+
+# Ignore coverage reports
+coverage/
+*.coverage
+*.coveragexml
+*.cov
+*.gcov
+
+# Ignore Resharper files
+_ReSharper/
